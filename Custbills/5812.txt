@@ -1,0 +1,20 @@
+	Welcome Renu Retail
+ Bill Number : 5812
+ Customer Name : vijay setupathi
+Phone Number : 8965221477
+=====================================
+Products		QTY		Price
+=====================================
+ Hair spray		2		360
+ Rice		10		800
+ Food oils		2		320
+ Mirinda		1		90
+ Cocacola		8		640
+ Red Bull		10		800
+ Rio		8		280
+-------------------------------------
+Cosmetic Tax			Rs.18.0
+Grocery Tax			Rs.56.0
+Cold Drink Tax			Rs.90.5
+Total Bill : 			 Rs. 3454.5
+-------------------------------------
